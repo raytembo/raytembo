@@ -1,7 +1,3 @@
-# 💫 About Me:
-Coding is one of my many passions,<br>I'm always up for a challenge and<br>love learning new things. Take a peek at my projects<br>and let's build together 🤝👨‍💻
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rays.workspace) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/raymond-tembo-629a942b8/]) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/raytembo23) 
 
