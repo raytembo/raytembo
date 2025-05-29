@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ray  
-**Developer • Designer • Problem Solver • Founder @ [Cichlify](https://github.com/cichlify)**
+**Developer • Designer • Problem Solver • Founder @ [Cichlify](https://github.com/cichlify-official)**
 
 I'm a full-stack developer and UI/UX designer with a passion for building clean, scalable, and user-focused digital experiences. I work across web and mobile platforms using technologies like Python, Flutter, React, Next.js, and Node.js — with back-end systems powered by Firebase, PostgreSQL, and MongoDB.
 
