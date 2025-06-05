@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ray  
+# Hi, I'm Ray  
 **Developer • Designer • Problem Solver • Founder @ [Cichlify](https://github.com/cichlify-official)**
 
 I’m a builder at heart, designing and developing digital products that solve real problems and bring ideas to life. My work blends thoughtful design with practical functionality, always aiming for tools that feel intuitive, meaningful, and human.
